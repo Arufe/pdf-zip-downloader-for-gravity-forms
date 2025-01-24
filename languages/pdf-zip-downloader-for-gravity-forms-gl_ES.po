@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PDF Zip Downloader for Gravity Forms\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-24 14:31+0000\n"
+"PO-Revision-Date: 2025-01-24 14:38+0000\n"
+"Last-Translator: admin\n"
+"Language-Team: Galego\n"
+"Language: gl_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.5.5\n"
+"X-Domain: pdf-zip-downloader-for-gravity-forms"
+
+#. Description of the plugin
+msgid ""
+"Download a Gravity Forms entry as a PDF with its attachments in a ZIP file."
+msgstr ""
+"Descargar unha entrada de Gravity Forms como PDF cos seus arquivos adxuntos "
+"nun arquivo ZIP."
+
+#: pdf-zip-downloader-for-gravity-forms.php:69
+#: pdf-zip-downloader-for-gravity-forms.php:81
+msgid "Download ZIP"
+msgstr "Descargar ZIP"
+
+#: pdf-zip-downloader-for-gravity-forms.php:98
+msgid "Entry not found."
+msgstr "Entrada non atopada."
+
+#: pdf-zip-downloader-for-gravity-forms.php:178
+msgid "Error creating ZIP file."
+msgstr "Erro ao crear o arquivo ZIP."
+
+#: pdf-zip-downloader-for-gravity-forms.php:136
+msgid "Error generating PDF: "
+msgstr "Erro ao xerar o PDF:"
+
+#: pdf-zip-downloader-for-gravity-forms.php:46
+msgid "Fields for ZIP Name"
+msgstr "Campos para o nome do ZIP"
+
+#: pdf-zip-downloader-for-gravity-forms.php:101
+msgid "Form not found."
+msgstr "Formulario non atopado."
+
+#. Name of the plugin
+msgid "Gravity Forms PDF Zip Downloader"
+msgstr "Gravity Forms PDF Zip Downloader"
+
+#: pdf-zip-downloader-for-gravity-forms.php:128
+msgid "Gravity PDF is not installed or activated."
+msgstr "Gravity PDF non está instalado e/ou activado."
+
+#. Author of the plugin
+msgid "Martín Arufe"
+msgstr "Martín Arufe"
+
+#: pdf-zip-downloader-for-gravity-forms.php:132
+msgid "No PDF is configured for this form."
+msgstr "Non hai PDF configurado para este formulario."
+
+#: pdf-zip-downloader-for-gravity-forms.php:29
+msgid "PDF for ZIP"
+msgstr "PDF para ZIP"
+
+#: pdf-zip-downloader-for-gravity-forms.php:21
+msgid "Select a PDF"
+msgstr "Selecciona un PDF"
+
+#: pdf-zip-downloader-for-gravity-forms.php:49
+msgid "Select the fields that will compose the ZIP file name."
+msgstr "Selecciona os campos que comporán o nome do arquivo ZIP."
+
+#: pdf-zip-downloader-for-gravity-forms.php:34
+msgid "Select which PDF to include in the ZIP."
+msgstr "Selecciona que PDF incluir no arquivo ZIP."
+
+#: pdf-zip-downloader-for-gravity-forms.php:91
+msgid "You do not have permissions to perform this action."
+msgstr "Non tes permisos para realizar esta acción."

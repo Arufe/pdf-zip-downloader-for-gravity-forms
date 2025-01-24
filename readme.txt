@@ -1,6 +1,6 @@
 === PDF Zip Downloader for Gravity Forms ===
 Contributors: martin695 
-Donate link: https://your-site.com/donate  
+Donate link: https://espazoabertogaliza.org 
 Tags: gravity forms, pdf, zip, export, entry  
 Requires at least: 5.0  
 Tested up to: 6.7  
